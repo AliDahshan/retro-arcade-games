@@ -1,6 +1,6 @@
 # Retro Game Arcade
 
-A unified classic gaming hub built in Python using the Pyglet library. This arcade features a master main menu launcher that allows players to seamlessly select and play different retro games.
+A unified classic gaming hub built in Python using the Pyglet library. This arcade features a master main menu launcher that allows players to seamlessly select and play different retro games. and thanks for the help of my friend Ahmed Wael for have a core role in developing this arcade
 
 ## 🎮 Included Games
 
